@@ -1,12 +1,12 @@
 
 ## Flutter Derecelendirme Sistemi 
-Bu Flutter uygulaması, kullanıcıların kitapları derecelendirebileceği ve ortalama bir derecelendirme alabileceği basit bir uygulamadır. Ayrıca, karanlık mod desteği de içerir. Bu uygulamanın temel özellikleri şunlardır:
+Bu Flutter uygulaması, kullanıcıların filmleri derecelendirebileceği ve ortalama bir derecelendirme alabileceği basit bir uygulamadır. Ayrıca, karanlık mod desteği de içerir. Bu uygulamanın temel özellikleri şunlardır:
 
-Kitapları listelemek ve her birini derecelendirmek.
+Filmleri listelemek ve her birini derecelendirmek.
 
 Ortalama bir derecelendirme hesaplamak.
 
-Yeni kitaplar eklemek ve derecelendirmek.
+Yeni filmler eklemek ve derecelendirmek.
 
 Tema modunu değiştirmek (açık veya karanlık mod).
 
@@ -22,7 +22,7 @@ Tema modunu değiştirmek (açık veya karanlık mod).
 
 
 ## Kullanım
-Uygulama başlatıldığında, ana ekran kullanıcılara mevcut kitapları listelemektedir. Her kitap, yanındaki yıldızları kullanarak 1 ila 5 arasında bir derece verilebilecek bir derecelendirme özelliğine sahiptir. Ayrıca, eklemek istediğiniz yeni bir kitap için "Yeni Film Ekle" +  butonunu kullanarak yeni kitaplar ekleyebilirsiniz.
+Uygulama başlatıldığında, ana ekran kullanıcılara mevcut filmleri listelemektedir. Her film, yanındaki yıldızları kullanarak 1 ila 5 arasında bir derece verilebilecek bir derecelendirme özelliğine sahiptir. Ayrıca, eklemek istediğiniz yeni bir film için "Yeni Film Ekle" +  butonunu kullanarak yeni filmler ekleyebilirsiniz.
 
 Karanlık modu etkinleştirmek veya devre dışı bırakmak için sağ alt köşedeki tema değiştirme butonunu kullanabilirsiniz.
 
