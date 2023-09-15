@@ -1,4 +1,4 @@
-# rating_app
+
 ## Flutter Derecelendirme Sistemi 
 Bu Flutter uygulaması, kullanıcıların kitapları derecelendirebileceği ve ortalama bir derecelendirme alabileceği basit bir uygulamadır. Ayrıca, karanlık mod desteği de içerir. Bu uygulamanın temel özellikleri şunlardır:
 
