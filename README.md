@@ -10,14 +10,15 @@ Yeni kitaplar eklemek ve derecelendirmek.
 
 Tema modunu değiştirmek (açık veya karanlık mod).
 
-## EKRAN GÖRÜNTÜLERİ 
-![image](https://github.com/gurkanesma/rating_app/assets/82777604/d1dd64f8-6d71-43a6-9b21-2e78d55f82ab)
+## EKRAN GÖRÜNTÜLERİ )
 
+![image](https://github.com/gurkanesma/rating_app/assets/82777604/eb366104-9774-47c2-ad09-902bb62ed64b)
 
 
 ## Yeni Film ekleme;
 
-![image](https://github.com/gurkanesma/rating_app/assets/82777604/ddb425e8-57ad-4399-b0f1-10040d222e3f)
+![image](https://github.com/gurkanesma/rating_app/assets/82777604/279e3bd7-1dca-4433-ae90-4bbbd359090e)
+
 
 
 ## Kullanım
